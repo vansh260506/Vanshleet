@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vansh260506/Vanshleet/tree/master/0657-robot-return-to-origin) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vansh260506/Vanshleet/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vansh260506/Vanshleet/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
