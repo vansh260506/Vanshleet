@@ -29,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vansh260506/Vanshleet/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
