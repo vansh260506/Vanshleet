@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/vansh260506/Vanshleet/tree/master/0657-robot-return-to-origin) |
 | [2833-furthest-point-from-origin](https://github.com/vansh260506/Vanshleet/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/vansh260506/Vanshleet/tree/master/2833-furthest-point-from-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/vansh260506/Vanshleet/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
