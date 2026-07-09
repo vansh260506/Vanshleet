@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,8 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
