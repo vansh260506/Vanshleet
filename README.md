@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vansh260506/Vanshleet/tree/master/0657-robot-return-to-origin) |
+| [1688-count-of-matches-in-tournament](https://github.com/vansh260506/Vanshleet/tree/master/1688-count-of-matches-in-tournament) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vansh260506/Vanshleet/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/vansh260506/Vanshleet/tree/master/1688-count-of-matches-in-tournament) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vansh260506/Vanshleet/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
