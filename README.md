@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/vansh260506/Vanshleet/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/vansh260506/Vanshleet/tree/master/0657-robot-return-to-origin) |
 | [2833-furthest-point-from-origin](https://github.com/vansh260506/Vanshleet/tree/master/2833-furthest-point-from-origin) |
 ## Counting
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vansh260506/Vanshleet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vansh260506/Vanshleet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/vansh260506/Vanshleet/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/vansh260506/Vanshleet/tree/master/0877-stone-game) |
