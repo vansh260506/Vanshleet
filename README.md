@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/vansh260506/Vanshleet/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vansh260506/Vanshleet/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vansh260506/Vanshleet/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/vansh260506/Vanshleet/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vansh260506/Vanshleet/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vansh260506/Vanshleet/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vansh260506/Vanshleet/tree/master/3731-find-missing-elements) |
 ## Math
@@ -93,10 +96,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vansh260506/Vanshleet/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vansh260506/Vanshleet/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
