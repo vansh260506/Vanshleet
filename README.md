@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vansh260506/Vanshleet/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
+| [0836-rectangle-overlap](https://github.com/vansh260506/Vanshleet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vansh260506/Vanshleet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vansh260506/Vanshleet/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/vansh260506/Vanshleet/tree/master/1227-airplane-seat-assignment-probability) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vansh260506/Vanshleet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
