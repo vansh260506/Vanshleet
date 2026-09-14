@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vansh260506/Vanshleet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/vansh260506/Vanshleet/tree/master/0168-excel-sheet-column-title) |
+| [0223-rectangle-area](https://github.com/vansh260506/Vanshleet/tree/master/0223-rectangle-area) |
 | [0292-nim-game](https://github.com/vansh260506/Vanshleet/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/vansh260506/Vanshleet/tree/master/0319-bulb-switcher) |
 | [0836-rectangle-overlap](https://github.com/vansh260506/Vanshleet/tree/master/0836-rectangle-overlap) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/vansh260506/Vanshleet/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/vansh260506/Vanshleet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
