@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/vansh260506/Vanshleet/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vansh260506/Vanshleet/tree/master/1406-stone-game-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vansh260506/Vanshleet/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vansh260506/Vanshleet/tree/master/0069-sqrtx) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vansh260506/Vanshleet/tree/master/0169-majority-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vansh260506/Vanshleet/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/vansh260506/Vanshleet/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/vansh260506/Vanshleet/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
