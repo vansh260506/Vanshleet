@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/vansh260506/Vanshleet/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
