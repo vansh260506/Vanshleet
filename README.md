@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/vansh260506/Vanshleet/tree/master/1406-stone-game-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vansh260506/Vanshleet/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vansh260506/Vanshleet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh260506/Vanshleet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/vansh260506/Vanshleet/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/vansh260506/Vanshleet/tree/master/1688-count-of-matches-in-tournament) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/vansh260506/Vanshleet/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vansh260506/Vanshleet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vansh260506/Vanshleet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vansh260506/Vanshleet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
